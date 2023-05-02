@@ -1,0 +1,9 @@
+.login{
+    height: 80vh;
+    width: 60vw;
+    display: grid;
+    place-items: center;
+    place-items: end;
+    padding-right: 20px;
+    
+}
